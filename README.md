@@ -1,5 +1,9 @@
 # SwiftZSTD
-Swift Wrapper around ZSTD Compression Library
+A Swift Package Manager wrapper around Facebook's Zstandard Compression Library
+
+The original Swift wrapper was created by [https://github.com/aperedera](@aperedera) and can be found [https://github.com/aperedera/SwiftZSTD](here). The Swift Package Manager wrapper was created by [https://github.com/ArnaudWurmel](@ArnaudWurmel) and lives as a three-year-old [https://github.com/aperedera/SwiftZSTD/pull/10](pull request) that was never merged.
+
+This is the readme from the original repo:
 
 Compression and de-compression of in-memory buffers is supported, with or without a context or a dictionary.  Buffers are represented by Data instances.  To be decompressed by this code, a buffer must be a complete frame with decompressed size encoded in it and retrievable using ZSTD_getDecompressedSize().  
 
