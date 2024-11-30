@@ -1,7 +1,7 @@
 # SwiftZSTD
 A Swift Package Manager wrapper around Facebook's Zstandard Compression Library
 
-The original Swift wrapper was created by [https://github.com/aperedera](@aperedera) and can be found [https://github.com/aperedera/SwiftZSTD](here). The Swift Package Manager wrapper was created by [https://github.com/ArnaudWurmel](@ArnaudWurmel) and lives as a three-year-old [https://github.com/aperedera/SwiftZSTD/pull/10](pull request) that was never merged.
+The original Swift wrapper was created by [@aperedera](https://github.com/aperedera) and can be found [here]([here](https://github.com/aperedera/SwiftZSTD)). The Swift Package Manager wrapper was created by [@ArnaudWurmel](https://github.com/ArnaudWurmel) and lives as a three-year-old [pull request](https://github.com/aperedera/SwiftZSTD/pull/10) that was never merged.
 
 This is the readme from the original repo:
 
